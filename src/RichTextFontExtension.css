@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Atkinson+Hyperlegible+Mono:wght@400;700&display=swap');
+
+.tlui-buttons__horizontal select {
+    border: 0;
+	background: rgb(255, 255, 255);
+	color: #000;
+	padding: 4px 8px;
+	border-radius: 4px;
+	font-size: 12px;
+    font-family: 'Atkinson Hyperlegible'; 
+}
+
+.tlui-buttons__horizontal button {
+    border: 0;
+	background: rgba(255, 255, 255, 0);
+	color: #000;
+	padding: 4px 8px;
+	border-radius: 0;
+	font-size: 12px;
+    font-family: 'Atkinson Hyperlegible';
+	font-weight: 500;
+}
+
